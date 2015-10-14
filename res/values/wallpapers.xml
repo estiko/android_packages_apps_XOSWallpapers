@@ -16,30 +16,30 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>xoplax-1</item>
-        <item>xoplax-2</item>
-        <item>xoplax-3</item>
-        <item>xoplax-4</item>
-        <item>xoplax-5</item>
-        <item>xoplax-6</item>
-        <item>xoplax-7</item>
-        <item>xoplax-8</item>
-        <item>xoplax-9</item>
-        <item>xoplax-10</item>
-        <item>xoplax-11</item>
-        <item>xoplax-12</item>
-        <item>xoplax-13</item>
-        <item>xoplax-14</item>
-        <item>xoplax-15</item>
-        <item>xoplax-16</item>
-        <item>xoplax-17</item>
-        <item>xoplax-18</item>
-        <item>xoplax-19</item>
-        <item>xoplax-20</item>
-        <item>xoplax-21</item>
-        <item>xoplax-22</item>
-        <item>xoplax-23</item>
-        <item>xoplax-24</item>
+        <item>xoplax01</item>
+        <item>xoplax02</item>
+        <item>xoplax03</item>
+        <item>xoplax04</item>
+        <item>xoplax05</item>
+        <item>xoplax06</item>
+        <item>xoplax07</item>
+        <item>xoplax08</item>
+        <item>xoplax09</item>
+        <item>xoplax10</item>
+        <item>xoplax11</item>
+        <item>xoplax12</item>
+        <item>xoplax13</item>
+        <item>xoplax14</item>
+        <item>xoplax15</item>
+        <item>xoplax16</item>
+        <item>xoplax17</item>
+        <item>xoplax18</item>
+        <item>xoplax19</item>
+        <item>xoplax20</item>
+        <item>xoplax21</item>
+        <item>xoplax22</item>
+        <item>xoplax23</item>
+        <item>xoplax24</item>
     </string-array>
 
     <string-array name="info" translatable="false">

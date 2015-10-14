@@ -2,3 +2,9 @@
 .project
 bin/
 gen/
+.*
+*.patch
+*.rej
+*.orig
+*~
+\#*#
